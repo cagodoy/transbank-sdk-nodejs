@@ -1,0 +1,10 @@
+{
+  "protocolVersion": "1.0",
+  "projectId": "cagodoy/transbank-sdk-nodejs",
+  "projectName": "transbank-sdk-nodejs",
+  "rootCycle": "cycle-init-1777235696952",
+  "saasUrl": "http://localhost:3001",
+  "state": {
+    "branch": "gitgov-state"
+  }
+}

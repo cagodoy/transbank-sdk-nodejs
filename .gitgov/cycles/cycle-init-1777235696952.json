@@ -1,0 +1,23 @@
+{
+  "header": {
+    "version": "1.0",
+    "type": "cycle",
+    "payloadChecksum": "65a5a1372078f446e2f450870ff3c410d1e868e76b0667d397f54e9129b786ea",
+    "signatures": [
+      {
+        "keyId": "human:cagodoy",
+        "role": "author",
+        "notes": "Initial cycle",
+        "signature": "tvInTaYK/cMCyhAbsVMR0m62PFaRvxAWvtXuOCaMJemf6Jiqmb4YScL5zUm+FQTk+nLJd/GJ3uFqOx7Fozz1Aw==",
+        "timestamp": 1777235697
+      }
+    ]
+  },
+  "payload": {
+    "id": "cycle-init-1777235696952",
+    "title": "Initial cycle",
+    "status": "planning",
+    "taskIds": [],
+    "childCycleIds": []
+  }
+}
